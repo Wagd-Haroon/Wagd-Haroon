@@ -12,7 +12,7 @@
 
 Final-year CS student building AI-driven systems — from adversarial deepfake defense to browser-automated data pipelines and secure full-stack applications. I have strong foundations in algorithms, networking, and systems programming, with a growing applied ML stack (PyTorch, ArcFace, FaceNet, Gemini API) and a track record of shipping end-to-end projects that combine data, models, and interfaces.
 
-Currently seeking a **software engineering or AI internship in the UAE** while finishing my graduation project on adversarial deepfake defense.
+Currently seeking a **software engineering or AI internship ** 
 
 ---
 
