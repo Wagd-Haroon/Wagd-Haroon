@@ -121,9 +121,9 @@ Implemented and benchmarked AES-256-CBC, DES, Blowfish, and RSA with OpenSSL; bu
 
 ## Certifications
 
-- Introduction to Modern AI — Cisco Networking Academy *(Apr 2026)*
-- C Essentials 1 — Cisco Networking Academy *(Apr 2026)*
-- Computer Hardware Basics — Cisco Networking Academy *(Feb 2026)*
+- Introduction to Modern AI — Cisco Networking Academy 
+- C Essentials 1 — Cisco Networking Academy 
+- Computer Hardware Basics — Cisco Networking Academy 
 
 ---
 
