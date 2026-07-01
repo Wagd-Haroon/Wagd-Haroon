@@ -12,7 +12,7 @@
 
 Final-year CS student building AI-driven systems — from adversarial deepfake defense to browser-automated data pipelines and secure full-stack applications. I have strong foundations in algorithms, networking, and systems programming, with a growing applied ML stack (PyTorch, ArcFace, FaceNet, Gemini API) and a track record of shipping end-to-end projects that combine data, models, and interfaces.
 
-Currently seeking a **software engineering or AI internship ** 
+Currently seeking a **software engineering or AI internship** while finishing my graduation project on adversarial deepfake defense.
 
 ---
 
@@ -49,6 +49,8 @@ Dual-layer framework performing forensic deepfake detection and adversarial iden
 
 `Python` `PyTorch` `ArcFace` `FaceNet` `PGD` `Fawkes` `FastAPI`
 
+→ [View Repository](https://github.com/Hybrid-Forensics-Lab/Hybrid-Deepfake-Defense-System)
+
 ---
 
 ### Automated Course Offerings Scraper
@@ -62,7 +64,7 @@ Full-stack AI agent that autonomously logs into a student portal, navigates cour
 
 `Python` `Playwright` `Streamlit` `Gemini API` `Pandas` `Pydantic` `OpenPyXL`
 
-→ [View Repository](https://github.com/Wagd-Haroon)
+*Repository coming soon.*
 
 ---
 
@@ -76,6 +78,8 @@ Web-based system enabling doctors to securely manage patient records with an int
 - Applied OOP, procedural, and functional paradigms; exported results to PDF/Excel in a 4-member team
 
 `Python` `FastAPI` `MongoDB` `JWT` `OpenAI GPT-3.5` `Tailwind CSS`
+
+*Repository coming soon.*
 
 ---
 
@@ -99,6 +103,8 @@ Designed a CIDR subnetting scheme dividing a /20 block into 17 subnets (86+ host
 
 `Cisco Packet Tracer` `OSPF` `CIDR` `TCP/IP`
 
+*Repository coming soon.*
+
 ---
 
 ### Security & Cryptography Implementation
@@ -108,6 +114,8 @@ Designed a CIDR subnetting scheme dividing a /20 block into 17 subnets (86+ host
 Implemented and benchmarked AES-256-CBC, DES, Blowfish, and RSA with OpenSSL; built a hybrid RSA+AES pipeline and configured TLS/SSL with SSH MFA via Google Authenticator. Hardened a Linux system using Lynis auditing and iptables with dynamic IP blocklisting.
 
 `OpenSSL` `AES/RSA/TLS` `Linux` `iptables` `GDB` `Google Authenticator`
+
+*Repository coming soon.*
 
 ---
 
