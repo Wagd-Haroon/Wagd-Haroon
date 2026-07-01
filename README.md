@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science Student · Canadian University Dubai · Final Year<br>
-  Dubai, UAE &nbsp;|&nbsp; Python · PyTorch · JavaScript · C++ · SQL<br>
+  Dubai, UAE &nbsp;|&nbsp; Python · PyTorch · JavaScript · C++ · SQL · Linux<br>
   <a href="https://www.linkedin.com/in/wagd-haroon-421b9a404">LinkedIn</a> · <a href="mailto:wagd@example.com">Email</a>
 </p>
 
